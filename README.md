@@ -85,7 +85,9 @@ I'm continuously building projects to strengthen my programming, data science, a
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=DevYash-001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+### 👀 Profile Views
 
+![Profile Views](https://komarev.com/ghpvc/?username=DevYash-001&color=blue&style=flat-square)
 # 🤝 Connect With Me
 
 I'm open to learning, collaborating, and connecting with people interested in **AI, Machine Learning, Data Science, and technology**.
